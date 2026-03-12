@@ -1,0 +1,401 @@
+[{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439001"
+  },
+  "name": "Samyang Buldak Ramen",
+  "price": 35000,
+  "model": "Ramen",
+  "madeBy": "Samyang",
+  "category": "Ramen",
+  "stock": 120,
+  "image": "ramen.jpg",
+  "description": "Korean spicy chicken ramen",
+  "rating": 4.8,
+  "reviewCount": 320
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439002"
+  },
+  "name": "Ottogi Jin Ramen Mild",
+  "price": 32000,
+  "model": "Ramen",
+  "madeBy": "Ottogi",
+  "category": "Ramen",
+  "stock": 120,
+  "image": "https://cdnv2.tgdd.vn/bhx-static/bhx/Products/Images/2565/200054/bhx/mi-cay-jin-ramen-ottogi-goi-120g_202505191650056398.jpg",
+  "description": "A mild version of the classic Korean ramen with a savory beef broth and smooth noodle texture, perfect for those who prefer less spicy flavors.",
+  "rating": 4.6,
+  "reviewCount": 210
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439003"
+  },
+  "name": "Samyang Buldak Ramen Carbonara",
+  "price": 38000,
+  "model": "Ramen",
+  "madeBy": "Samyang",
+  "category": "Ramen",
+  "stock": 100,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrFgulofHJmEO-LR4oWtpJEsFRgmwzje2UA&s",
+  "description": "A creamy carbonara twist on the famous spicy Buldak ramen. Combines rich cheese flavor with a spicy kick for a balanced taste.",
+  "rating": 4.9,
+  "reviewCount": 410
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439004"
+  },
+  "name": "Samyang Buldak Ramen Cheese",
+  "price": 38000,
+  "model": "Ramen",
+  "madeBy": "Samyang",
+  "category": "Ramen",
+  "stock": 90,
+  "image": "buldak-cheese.jpg",
+  "description": "Spicy Korean ramen combined with creamy cheese powder that softens the heat and enhances the overall flavor.",
+  "rating": 4.7,
+  "reviewCount": 265
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439005"
+  },
+  "name": "Shin Ramyun Black",
+  "price": 42000,
+  "model": "Ramen",
+  "madeBy": "Nongshim",
+  "category": "Ramen",
+  "stock": 110,
+  "image": "https://m.media-amazon.com/images/I/71Kw++ruefL._SL1000_.jpg",
+  "description": "Premium version of the classic Shin Ramyun featuring richer broth, thicker noodles and added garlic and beef flavor.",
+  "rating": 4.8,
+  "reviewCount": 390
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439006"
+  },
+  "name": "Yopokki Original Tokbokki",
+  "price": 45000,
+  "model": "Tokbokki",
+  "madeBy": "Yopokki",
+  "category": "Tokbokki",
+  "stock": 80,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6Ot8vFLQyOdB_MrcRTD0pqdwTwxUzB9Vdw&s",
+  "description": "Traditional Korean rice cakes served with a sweet and spicy sauce, inspired by classic Korean street food.",
+  "rating": 4.6,
+  "reviewCount": 180
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439007"
+  },
+  "name": "Yopokki Cheese Tokbokki",
+  "price": 48000,
+  "model": "Tokbokki",
+  "madeBy": "Yopokki",
+  "category": "Tokbokki",
+  "stock": 70,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxYuoCqi252lZOR95FCnIkIydckzinNv3CAQ&s",
+  "description": "Instant tokbokki rice cakes with creamy cheese sauce blended with a mild spicy flavor.",
+  "rating": 4.7,
+  "reviewCount": 220
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439008"
+  },
+  "name": "Yopokki Sweet & Spicy Tokbokki",
+  "price": 47000,
+  "model": "Tokbokki",
+  "madeBy": "Yopokki",
+  "category": "Tokbokki",
+  "stock": 65,
+  "image": "tokbokki-sweetspicy.jpg",
+  "description": "Rice cakes with a balanced sweet and spicy sauce that recreates the taste of Korean street food snacks.",
+  "rating": 4.5,
+  "reviewCount": 160
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439009"
+  },
+  "name": "Bibigo Cup Tokbokki",
+  "price": 42000,
+  "model": "Tokbokki",
+  "madeBy": "Bibigo",
+  "category": "Tokbokki",
+  "stock": 75,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ9nD_TbzqOtsUPJF4ALGDP-kPt6pri5skg5N5-sWcljmksVpCN9p31jtZP1BwKCfB42RosoM-1r_-LYNdcq6927ogxLhPK",
+  "description": "Convenient cup-style tokbokki that can be prepared quickly, offering chewy rice cakes and spicy sauce.",
+  "rating": 4.4,
+  "reviewCount": 140
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439010"
+  },
+  "name": "Haechandle Instant Tokbokki",
+  "price": 46000,
+  "model": "Tokbokki",
+  "madeBy": "Haechandle",
+  "category": "Tokbokki",
+  "stock": 60,
+  "image": "https://cjfoods.com.vn/storage/cjf-0026-1000x1000px.jpg",
+  "description": "Instant Korean rice cake dish made with authentic gochujang sauce for a rich spicy taste.",
+  "rating": 4.6,
+  "reviewCount": 150
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439011"
+  },
+  "name": "Bibigo Napa Kimchi",
+  "price": 55000,
+  "model": "Kimchi",
+  "madeBy": "Bibigo",
+  "category": "Kimchi",
+  "stock": 50,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaitME8dHDmSR54fB1IcVosvanTM8CvTv4rA&s",
+  "description": "Traditional Korean fermented napa cabbage with spicy and tangy flavor made using authentic Korean ingredients.",
+  "rating": 4.8,
+  "reviewCount": 200
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439012"
+  },
+  "name": "CJ Bibigo Sliced Kimchi",
+  "price": 53000,
+  "model": "Kimchi",
+  "madeBy": "CJ",
+  "category": "Kimchi",
+  "stock": 45,
+  "image": "https://hungrygopher.com/wp-content/uploads/2015/01/84-Simple-Kimchi-Recipe-Cut-Up-Kimchi.jpg",
+  "description": "Pre-sliced kimchi ready to serve with a balanced spicy and sour fermented taste.",
+  "rating": 4.6,
+  "reviewCount": 170
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439013"
+  },
+  "name": "Young Poong Kimchi",
+  "price": 52000,
+  "model": "Kimchi",
+  "madeBy": "Young Poong",
+  "category": "Kimchi",
+  "stock": 55,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgTB4-CjTGBgOmvNL00e4tMhW9zCKku27GSQ&s",
+  "description": "Authentic Korean kimchi fermented with traditional spices to deliver a bold spicy flavor.",
+  "rating": 4.5,
+  "reviewCount": 130
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439014"
+  },
+  "name": "Jongga Mat Kimchi",
+  "price": 60000,
+  "model": "Kimchi",
+  "madeBy": "Jongga",
+  "category": "Kimchi",
+  "stock": 40,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2YiRG7vC2HaXL7p1uqmSqZ7FFO2i_cdm-RQ&s",
+  "description": "Premium kimchi brand from Korea known for its authentic fermentation process and rich taste.",
+  "rating": 4.9,
+  "reviewCount": 250
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439015"
+  },
+  "name": "Homestyle Korean Kimchi",
+  "price": 58000,
+  "model": "Kimchi",
+  "madeBy": "SeoulFood",
+  "category": "Kimchi",
+  "stock": 35,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP9OEh5bSQ7xymynmCsJjjqT2O1cGdUKXjXA&s",
+  "description": "Homestyle kimchi prepared with fresh napa cabbage and traditional Korean spices.",
+  "rating": 4.7,
+  "reviewCount": 145
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439016"
+  },
+  "name": "Orion Choco Pie",
+  "price": 25000,
+  "model": "Snack",
+  "madeBy": "Orion",
+  "category": "Snack",
+  "stock": 200,
+  "image": "https://product.hstatic.net/1000141988/product/banh_chocopie_dam_hop_435_6_g_854ca1da17fb4ce0a55cdfd5830a63e5_master.jpg",
+  "description": "Soft cake snack filled with marshmallow cream and coated with chocolate.",
+  "rating": 4.8,
+  "reviewCount": 420
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439017"
+  },
+  "name": "Lotte Pepero Chocolate",
+  "price": 22000,
+  "model": "Snack",
+  "madeBy": "Lotte",
+  "category": "Snack",
+  "stock": 180,
+  "image": "https://www.lottemart.vn/media/catalog/product/cache/0x0/8/8/8801062267675.jpg.webp",
+  "description": "Crunchy biscuit sticks coated with rich chocolate, a famous Korean snack.",
+  "rating": 4.7,
+  "reviewCount": 310
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439018"
+  },
+  "name": "Honey Butter Chips",
+  "price": 28000,
+  "model": "Snack",
+  "madeBy": "Haitai",
+  "category": "Snack",
+  "stock": 160,
+  "image": "https://img06.weeecdn.com/product/image/010/099/2798976A7085FBE1.png",
+  "description": "Crispy potato chips flavored with sweet honey and buttery taste.",
+  "rating": 4.6,
+  "reviewCount": 205
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439019"
+  },
+  "name": "Orion Turtle Chips",
+  "price": 27000,
+  "model": "Snack",
+  "madeBy": "Orion",
+  "category": "Snack",
+  "stock": 150,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGtTStO9a9__qaGgUIlKSjR_NFY2ovq9oy0w&s",
+  "description": "Layered crunchy chips shaped like turtle shells with unique sweet corn flavor.",
+  "rating": 4.6,
+  "reviewCount": 180
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439020"
+  },
+  "name": "Lotte Pepero Almond",
+  "price": 24000,
+  "model": "Snack",
+  "madeBy": "Lotte",
+  "category": "Snack",
+  "stock": 170,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnmcAdSW7uzDvz84miipol5dmGjxd39S3uZg&s",
+  "description": "Chocolate coated biscuit sticks topped with crunchy almond pieces.",
+  "rating": 4.7,
+  "reviewCount": 230
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439021"
+  },
+  "name": "Milk Soda",
+  "price": 20000,
+  "model": "Beverage",
+  "madeBy": "Lotte",
+  "category": "Beverage",
+  "stock": 140,
+  "image": "https://havamall.com/wp-content/uploads/2020/06/mikis-co-logo.jpg",
+  "description": "Sweet and creamy Korean milk soda drink with light carbonation.",
+  "rating": 4.5,
+  "reviewCount": 120
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439022"
+  },
+  "name": "Korean Banana Milk",
+  "price": 23000,
+  "model": "Beverage",
+  "madeBy": "Binggrae",
+  "category": "Beverage",
+  "stock": 130,
+  "image": "https://www.korea.net/upload/content/editImage/banana-141107-1.jpg",
+  "description": "Iconic Korean drink with creamy banana flavor loved by all ages.",
+  "rating": 4.9,
+  "reviewCount": 500
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439023"
+  },
+  "name": "Korean Barley Tea",
+  "price": 18000,
+  "model": "Beverage",
+  "madeBy": "DongSuh",
+  "category": "Beverage",
+  "stock": 150,
+  "image": "https://barleyteatime.com/cdn/shop/products/peach.jpg",
+  "description": "Traditional roasted barley tea known for its refreshing nutty taste.",
+  "rating": 4.4,
+  "reviewCount": 110
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439024"
+  },
+  "name": "Aloe Vera Drink",
+  "price": 21000,
+  "model": "Beverage",
+  "madeBy": "OKF",
+  "category": "Beverage",
+  "stock": 125,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIUjla2HD-7CMqIwN9iQS9ZBjWfuP8TiAQg&s",
+  "description": "Refreshing aloe vera drink containing real aloe pulp pieces.",
+  "rating": 4.6,
+  "reviewCount": 140
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439025"
+  },
+  "name": "Korean Rice Punch (Sikhye)",
+  "price": 24000,
+  "model": "Beverage",
+  "madeBy": "Paldo",
+  "category": "Beverage",
+  "stock": 110,
+  "image": "https://futuredish.com/wp-content/uploads/2021/01/819qS4-cWHL._SL1500_.jpg",
+  "description": "Traditional Korean sweet rice drink made from fermented malt and rice.",
+  "rating": 4.5,
+  "reviewCount": 135
+},
+{
+  "_id": {
+    "$oid": "69b20a2b355d29d8163f3f01"
+  },
+  "name": null,
+  "price": null,
+  "category": null,
+  "description": null,
+  "image": null,
+  "createdAt": {
+    "$date": "2026-03-12T00:34:51.937Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69b20a35355d29d8163f3f02"
+  },
+  "name": "Samyang Buldak Ramen",
+  "price": 35000,
+  "category": "Ramen",
+  "description": "Korean spicy chicken ramen",
+  "image": "ramen.jpg",
+  "createdAt": {
+    "$date": "2026-03-12T00:35:01.583Z"
+  }
+}]

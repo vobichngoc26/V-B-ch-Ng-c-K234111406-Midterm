@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "69b2052a62f00c58c8452353"
+  },
+  "name": "Ramen",
+  "description": "Korean instant ramen",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69b2052a62f00c58c8452354"
+  },
+  "name": "Tokbokki",
+  "description": "Korean spicy rice cake",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69b2052a62f00c58c8452355"
+  },
+  "name": "Kimchi",
+  "description": "Traditional Korean fermented food",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69b2052a62f00c58c8452356"
+  },
+  "name": "Snack",
+  "description": "Korean snacks",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69b2052a62f00c58c8452357"
+  },
+  "name": "Beverage",
+  "description": "Korean drinks",
+  "status": "active"
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "69b2076a62f00c58c8452373"
+  },
+  "name": "Nguyen Minh",
+  "email": "minh@gmail.com",
+  "password": "123456",
+  "phone": "0911111111",
+  "address": "HCM City"
+},
+{
+  "_id": {
+    "$oid": "69b2076a62f00c58c8452374"
+  },
+  "name": "Tran Lan",
+  "email": "lan@gmail.com",
+  "password": "123456",
+  "phone": "0922222222",
+  "address": "Hanoi"
+},
+{
+  "_id": {
+    "$oid": "69b2076a62f00c58c8452375"
+  },
+  "name": "Le Tuan",
+  "email": "tuan@gmail.com",
+  "password": "123456",
+  "phone": "0933333333",
+  "address": "Da Nang"
+},
+{
+  "_id": {
+    "$oid": "69b2076a62f00c58c8452376"
+  },
+  "name": "Pham Hoa",
+  "email": "hoa@gmail.com",
+  "password": "123456",
+  "phone": "0944444444",
+  "address": "Can Tho"
+},
+{
+  "_id": {
+    "$oid": "69b2076a62f00c58c8452377"
+  },
+  "name": "Vo Anh",
+  "email": "anh@gmail.com",
+  "password": "123456",
+  "phone": "0955555555",
+  "address": "Hue"
+},
+{
+  "_id": {
+    "$oid": "69b210cb355d29d8163f3f03"
+  },
+  "username": "BichNgoc",
+  "password": "$2b$10$KXkfG9wAFxXkbExu/iTtouYU70xJyvqdzHs3tEPEYAHx06YitNRSq",
+  "createdAt": {
+    "$date": "2026-03-12T01:03:07.981Z"
+  }
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "69b2075462f00c58c845236c"
+  },
+  "name": "Admin 1",
+  "email": "admin1@kfood.com",
+  "phone": "0901111111",
+  "role": "admin",
+  "password": "123456"
+},
+{
+  "_id": {
+    "$oid": "69b2075462f00c58c845236d"
+  },
+  "name": "Admin 2",
+  "email": "admin2@kfood.com",
+  "phone": "0902222222",
+  "role": "admin",
+  "password": "123456"
+},
+{
+  "_id": {
+    "$oid": "69b2075462f00c58c845236e"
+  },
+  "name": "Admin 3",
+  "email": "admin3@kfood.com",
+  "phone": "0903333333",
+  "role": "admin",
+  "password": "123456"
+},
+{
+  "_id": {
+    "$oid": "69b2075462f00c58c845236f"
+  },
+  "name": "Admin 4",
+  "email": "admin4@kfood.com",
+  "phone": "0904444444",
+  "role": "admin",
+  "password": "123456"
+},
+{
+  "_id": {
+    "$oid": "69b2075462f00c58c8452370"
+  },
+  "name": "Admin 5",
+  "email": "admin5@kfood.com",
+  "phone": "0905555555",
+  "role": "admin",
+  "password": "123456"
+}]
