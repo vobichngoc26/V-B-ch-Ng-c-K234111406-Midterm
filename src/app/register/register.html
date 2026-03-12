@@ -1,0 +1,24 @@
+<div class="page-bg"></div>
+<div class="auth-container">
+  <div class="auth-card">
+    <h2>Register</h2>
+    <input type="text" placeholder="Username" [(ngModel)]="username">
+
+    <input type="password" placeholder="Password" [(ngModel)]="password">
+    <div class="role-select">
+      <label>
+        <input type="radio" [(ngModel)]="role" value="customer">
+        Customer
+      </label>
+      <label>
+        <input type="radio" [(ngModel)]="role" value="employee">
+        Employee
+      </label>
+    </div>
+    <button (click)="register()">Register</button>
+    <p>
+      Already have account?
+      <a routerLink="/login">Login</a>
+    </p>
+  </div>
+</div>

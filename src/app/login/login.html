@@ -1,0 +1,28 @@
+<div class="page-bg"></div>
+
+<div class="auth-container">
+  <div class="auth-card">
+
+    <h2>Login</h2>
+
+    <div class="input-group">
+      <input type="text" placeholder="Username" [(ngModel)]="username">
+    </div>
+
+    <div class="input-group">
+      <input type="password" placeholder="Password" [(ngModel)]="password">
+    </div>
+
+    <button (click)="login()">Login</button>
+
+    <div class="error-box" *ngIf="errorMessage">
+      <p>{{errorMessage}}</p>
+    </div>
+
+    <p>
+      Don't have account?
+      <button (click)="goRegister()">Register</button>
+    </p>
+
+  </div>
+</div>

@@ -1,0 +1,57 @@
+<div class="layout">
+
+  <div class="menu">
+  <ul class="menu-list">
+
+    <li>
+      <a routerLink="/product" routerLinkActive="active">Products</a>
+    </li>
+
+    <li class="dropdown">
+      <span>Order</span>
+      <ul class="submenu">
+
+        <li>
+          <a routerLink="currentorder" routerLinkActive="active">
+            Current Order
+          </a>
+        </li>
+
+        <li>
+          <a routerLink="/revenue" routerLinkActive="active">
+            Revenue statistics
+          </a>
+        </li>
+
+      </ul>
+    </li>
+
+  </ul>
+</div>
+  <div class="content">
+    <router-outlet></router-outlet>
+  </div>
+
+  <div class="student-info">
+    <app-about></app-about>
+  </div>
+
+  <div class="bottom">
+
+    <span class="login-link" (click)="showLogin=true">
+      Login
+    </span>
+
+    <app-login 
+  *ngIf="showLogin"
+  (openRegister)="openRegister()"
+  (closeLogin)="closeLogin()">
+</app-login>
+
+    <app-register
+      *ngIf="showRegister"
+      (closeRegister)="showRegister=false"
+      (openLogin)="openLogin()">
+    </app-register>
+  </div>
+</div>
